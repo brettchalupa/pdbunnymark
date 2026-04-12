@@ -1,0 +1,17 @@
+[
+  {
+    "label": "just: run lua",
+    "command": "just",
+    "args": ["lua-run"],
+  },
+  {
+    "label": "just: build lua",
+    "command": "just",
+    "args": ["lua-build"],
+  },
+  {
+    "label": "just: clean lua",
+    "command": "just",
+    "args": ["lua-clean"],
+  },
+]

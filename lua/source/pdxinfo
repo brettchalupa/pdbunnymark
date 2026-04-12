@@ -1,0 +1,6 @@
+name=PDBunnymarkLua
+author=Brett Chalupa
+description=Benchmark utility
+bundleID=com.brettmakesgames.pdbunnymarklua
+version=1.0
+buildNumber=1
