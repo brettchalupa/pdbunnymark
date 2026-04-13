@@ -49,6 +49,13 @@ why we test on device!
 Both versions apply the same high-level strategies, then diverge in the
 language-specific details.
 
+## Learn to make games for Playdate
+
+I did this little benchmark exercise as part of research for
+[Make Games for Playdate with Lua](https://leanpub.com/playdatebook), a book I
+wrote about game programming for Playdate. If you're curious about how to make
+games for Playdate, check it out. There are free sample chapters too.
+
 ## Unlicense
 
 This program—its source and its assets—are released into the public domain.
