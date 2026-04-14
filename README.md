@@ -4,6 +4,10 @@ Benchmark utility for Playdate comparing Lua and C performance via the classic
 bunnymark test: spawn as many bouncing sprites as possible while holding a
 stable target framerate.
 
+[📹 Watch the video!](https://www.youtube.com/watch?v=eKmgUG1JFGE)
+
+[Read about it on the Playdate dev forum](https://devforum.play.date/t/how-much-faster-is-c-than-lua-for-playdate-development/25381)
+
 Install and use `just` for running dev commands. The `just` commands assume
 you're on macOS. See the `justfile` for available commands.
 
